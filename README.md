@@ -1,2 +1,2 @@
 # DELALY UKOL A Sofiia a UKOL B Diana
-## Společní ikol není v složce
+## Společní ukol není v složce
